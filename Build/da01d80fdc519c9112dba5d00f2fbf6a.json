@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D UFO PROJECT",
+"dataUrl": "40aad41b15b593536c0a969aa9e9f982.unityweb",
+"asmCodeUrl": "218fc69fb44b8bb3405deb14ebc5b2a6.unityweb",
+"asmMemoryUrl": "ee7d79d52cb44c4144e339f7136cc1fa.unityweb",
+"asmFrameworkUrl": "81cd9b445af967fb6c6a4ea6b4f9a211.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
